@@ -184,7 +184,7 @@
         "Knight":
         {
           "amount": 1,
-          "chance": 100
+          "chance": 20
         },
 
         "Gluhar":
@@ -226,7 +226,7 @@
         "Cultist":
         {
           "amount": 1,
-          "chance": 100
+          "chance": 80
         }
       }
     },
@@ -294,7 +294,7 @@
         "Knight":
         {
           "amount": 1,
-          "chance": 100
+          "chance": 20
         },
 
         "Gluhar":
@@ -336,7 +336,7 @@
         "Cultist":
         {
           "amount": 1,
-          "chance": 100
+          "chance": 80
         }
       }
     },
@@ -391,7 +391,7 @@
         "Cultist":
         {
           "amount": 1,
-          "chance": 100
+          "chance": 80
         }
       }
     },
@@ -501,7 +501,7 @@
         "Cultist":
         {
           "amount": 1,
-          "chance": 100
+          "chance": 80
         }
       }
     },
@@ -556,7 +556,7 @@
         "Cultist":
         {
           "amount": 1,
-          "chance": 100
+          "chance": 80
         }
       }
     },
@@ -611,7 +611,7 @@
         "Cultist":
         {
           "amount": 1,
-          "chance": 100
+          "chance": 80
         }
       }
     },
@@ -624,7 +624,7 @@
         "Knight":
         {
           "amount": 1,
-          "chance": 100
+          "chance": 20
         },
 
         "Gluhar":
@@ -666,7 +666,7 @@
         "Cultist":
         {
           "amount": 1,
-          "chance": 100
+          "chance": 80
         }
       }
     }
